@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&display=swap');
+h7
+{
+    font-size: 16px;
+    font-weight: bold;
+    color: #19199F;
+}
+
+h8
+{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 13px;
+    color: #8F8F9E;
+}
+
+h9
+{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: #19199F;
+}
+
+p
+{
+    font-size: 20px;
+    color: #ffffff;
+    
+}
+
+#aboutme
+{
+    background-color: #19199F;
+    color: #ffffff;
+    width: 150px;
+    height: 50px;
+}
+
+b
+{
+    height: 100px;
+    text-align: center;
+    line-height: 35px;
+}
+
+.fs-5
+{
+    color: #8F8F9E;
+}
+
+h10
+{
+    font-size: 17px;
+    color: #8F8F9E;
+}
+
+h2
+{
+    color: #19199F;
+}
+
+.nav-item
+{
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.active, .nav-item:hover
+{
+    background-color: #CFCFE7;
+}
+
+
+h11
+{
+    font-size: 20px;
+}
+
+#e
+{
+    font-size: 40px;
+}
+
+#a
+{
+    height: 100px;
+    border-radius:  15px;
+}
+
+#b
+{
+    font-size: 20px;
+    color: white;
+}
+
+#c
+{
+    background-color: #CFCFE7;
+}
+
+#d
+{
+    position: relative;
+    margin: 50px 50px 50px 50px;
+}
+
+
+
+/*Floating Back-To-Top Button*/
+#myBtn
+{
+    position: fixed;
+    bottom: 80px;
+    float: right;
+    left: 96%;
+    color: red;
+}
+/*On Hover Color Change*/
+.fa-chevron-circle-up:hover 
+{
+    color: gray;
+}
+
+footer
+{
+    background-color: #CFCFE7;
+}
+
